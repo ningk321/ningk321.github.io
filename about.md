@@ -11,8 +11,7 @@ I’m a Freelance (full-stack) software developer based in Hamburg. Since 2009 I
 
 I started building software with PHP first, but nowadays, it’s not limited to that. I enjoy projects in Node.js, Typescript, Kotlin, Python, etc. I’m especially pleased to work with AWS services.
 
+I was born in Prag (Czech Republic), grew up in Kyiv (Ukraine), and currently live in Hamburg (Germany).
 I do speak Ukrainian, Russian, English, and German languages.
 
-On a personal note, I’m into sport (like football, jogging, judo, etc.), traveling, and exploring new music.
-I was born in Prag (Czech Republic), grew up in Kyiv (Ukraine), and currently live in Hamburg (Germany).
-I have a master’s degree in Computer science from <a href="http://kpi.ua/en" target="_blank">The National Technical University of Ukraine</a>.
+On a personal note, I’m into sport (like football, jogging, judo, etc.), traveling, and exploring new music. I also have a <a href="https://alexzelenuyk.medium.com/">blog</a> where I post about my recent projects.
