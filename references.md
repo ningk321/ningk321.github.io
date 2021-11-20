@@ -7,12 +7,16 @@ layout: page
 
 ---
 
-|[![Fielmann AG][fielmann]](https://www.fielmann.de) | [![Oaktree Technologies][oaktree]](https://www.oak.tt) |
+|[![Porsch AG][porsche]](https://www.porsche.com) | [![Fielmann AG][fielmann]](https://www.fielmann.de) |
+|[![CoachHub.io][couchhub]](https://www.fielmann.de) | [![Oaktree Technologies][oaktree]](https://www.oak.tt) |
 |[![ABOUT YOU GmbH][aboutyou]](https://www.aboutyou.de) | [![Jimdo GmbH][jimdo]](https://jimdo.com) |
 |[![Goodgame Studios][goodgame]](https://goodgamestudios.com/de/) | [![Playtech][playtech]](https://playtech.com) |
 |[![Luxoft][luxoft]](https://luxoft.com)||
 
+
+[porsche]: https://upload.wikimedia.org/wikipedia/de/7/70/Porsche_Logo.svg "Porsch AG"
 [fielmann]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/160506_Fielmann_LogoNEU_pos_wiki.svg/320px-160506_Fielmann_LogoNEU_pos_wiki.svg.png "Fielmann AG"
+[couchhub]: https://coachhub.io/wp-content/uploads/2021/02/Logo-1.svg "CoachHub.io"
 [oaktree]: https://www.oak.tt/_nuxt/img/oaktree-logo.0d1ea63.png "Oaktree Technologies GmbH"
 [aboutyou]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ABOUT_YOU_Logo.png/320px-ABOUT_YOU_Logo.png "ABOUT YOU GmbH"
 [jimdo]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jimdo_Logo.png/320px-Jimdo_Logo.png "Jimdo GmbH"
