@@ -8,10 +8,9 @@ layout: page
 ---
 
 |[![Porsch AG][porsche]](https://www.porsche.com) | [![Fielmann AG][fielmann]](https://www.fielmann.de) |
-|[![CoachHub.io][couchhub]](https://www.fielmann.de) | [![Oaktree Technologies][oaktree]](https://www.oak.tt) |
-|[![ABOUT YOU GmbH][aboutyou]](https://www.aboutyou.de) | [![Jimdo GmbH][jimdo]](https://jimdo.com) |
+|[![Jimdo GmbH][jimdo]](https://jimdo.com) | [![Oaktree Technologies][oaktree]](https://www.oak.tt) |
+|[![ABOUT YOU GmbH][aboutyou]](https://www.aboutyou.de) | [![Luxoft][luxoft]](https://luxoft.com) |
 |[![Goodgame Studios][goodgame]](https://goodgamestudios.com/de/) | [![Playtech][playtech]](https://playtech.com) |
-|[![Luxoft][luxoft]](https://luxoft.com)||
 
 
 [porsche]: https://upload.wikimedia.org/wikipedia/de/7/70/Porsche_Logo.svg "Porsch AG"
