@@ -9,14 +9,14 @@ layout: page
 
 ### I do "speak"
 
+-   Java/Kotlin (Spring Boot)
 -   Node.js / Typescript (NestJS, typeorm)
--   Kotlin (Spring Boot)
--   PHP (Zend framework, Symfony, Phalcon, Yii, etc.)
 -   Python (Flask, Django)
 
 ### I work with
 
--   AWS
+-   AWS, Azure
+-   IaC (Terraform, CloudFormation)
 -   Graphql, REST, Thrift
 -   Serverless stack
 -   Databases (MySQL/PostgreSQL/Oracle/DynamoDB/Coachbase/MongoDB)

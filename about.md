@@ -5,13 +5,18 @@ layout: page
 
 ![Oleksii zeleniuk]({{ site.url }}/{{ site.picture }})
 
-Hi! My name is Oleksii Zeleniuk.
+Hi, my name is Oleksii Zeleniuk, and welcome to my website!
 
-I’m a Freelance (full-stack) software developer based in Hamburg. Since 2009 I work as a software developer for <a href="/references">various companies</a>.I focused on architecting and building web-based applications and taking care of infrastructure, test automation, and a little bit of frontend.
+I’m a Freelance (full-stack) software developer based in Hamburg. Since 2009 I work as a software developer for <a href="/references">various companies</a> in Germany, Estonia, and Ukraine.
+I specialize in architecting and building web-based applications and taking care of infrastructure, test automation, and a little bit of frontend.
 
-I started building software with PHP first, but nowadays, it’s not limited to that. I enjoy projects in Node.js, Typescript, Kotlin, Python, etc. I’m especially pleased to work with AWS services.
+My current focus is on **Java(Kotlin)** development, but I also work with **Node.js(Typescript)** and **Python**.
+I like developing Infrastructure-as-Code in **AWS** with a "you build it, you own it" mentality.
+Whether using these or any other technologies, I am eager to apply **Agile Principles** to drive successful product development.
 
-I was born in Prag (Czech Republic), grew up in Kyiv (Ukraine), and currently live in Hamburg (Germany).
-I do speak Ukrainian, Russian, English, and German languages.
+When I'm not coding, I enjoy participating in various sports such as football, jogging, and triathlon.
+I do speak Ukrainian, English, and German languages.
 
-On a personal note, I’m into sport (like football, jogging, judo, etc.), traveling, and exploring new music. I also have a <a href="https://alexzelenuyk.medium.com/">blog</a> where I post about my recent projects.
+I write about my latest projects on my <a href="https://alexzelenuyk.medium.com/">blog</a>, where I share insights into my work and interests.
+
+Thank you for visiting my website, and please feel free to contact me if you have any questions or would like to discuss a potential project!
