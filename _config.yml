@@ -16,7 +16,7 @@ picture: assets/images/profilePic.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/images/Rob_2019_res.pdf
+resume-url: assets/images/Rob_2023_res.pdf
 #resume-url: https://google.com/?q=my+resume
 
 #url: https://koppl.in/indigo
@@ -55,7 +55,7 @@ github: guti15
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: guti310@gmail.com
+email: boston.robg@gmail.com
 
 authors:
     RobertGutierrez:
