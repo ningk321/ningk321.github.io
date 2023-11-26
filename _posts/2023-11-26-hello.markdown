@@ -1,0 +1,15 @@
+---
+title: "Hello world"
+layout: post
+date: 2016-02-24 22:44
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: blog
+author: Albert
+description: First post
+---
+
+Very exciting times ahead. Can't wait to write something about what I am learning, and my interests. Lately I can't stop thinking about DL framework optimization. @FFCV and @tinycorp are the culprits.
