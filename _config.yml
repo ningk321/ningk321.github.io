@@ -26,7 +26,7 @@ url: https://aldakata.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'G-R6557GM4YT'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
