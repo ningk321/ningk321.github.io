@@ -26,13 +26,13 @@ Our paper focuses on the Label Noise Modelling step. It is known that there is a
 
 
 <figure>
-    <img src="assets/images/loss_evolution.gif"
+    <img src="/assets/images/loss_evolution.gif"
          alt="Classification boundary evolution gif">
     <figcaption>Evolution of the classification boundary over training epochs. From extracted from https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html.</figcaption>
 </figure>
 
 <figure>
-    <img src="assets/images/per_sample_all.png"
+    <img src="/assets/images/per_sample_all.png"
          alt="Sample loss all">
     <figcaption>The sample loss distribution after warm-up for all the sample in CIFAR-100. The typical assumption seems to hold.</figcaption>
 </figure>
@@ -46,13 +46,13 @@ In the paper we show how our extremely simple proposal improves classification a
 
 
 <figure>
-    <img src="assets/images/per_sample_otter.png"
+    <img src="/assets/images/per_sample_otter.png"
          alt="Sample loss otter">
     <figcaption>The sample loss distribution for the samples labelled "otter" after warm-up. The typical assumption seems to hold.</figcaption>
 </figure>
 
 <figure>
-    <img src="assets/images/per_sample_road.png"
+    <img src="/assets/images/per_sample_road.png"
          alt="Sample loss road">
     <figcaption>The sample loss distribution for the samples labelled "road" after warm-up. The typical assumption seems to hold.</figcaption>
 </figure>
