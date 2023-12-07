@@ -1,0 +1,28 @@
+---
+title: "TODO"
+layout: post
+date: 2023-12-07 22:44
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: blog
+author: Albert
+description: "Self-study: Time Series - ARMA"
+---
+
+I am currently taking a Time Series course. This post is to hel myself understand how to chose the parameters p, q of an AR(p), MA(q), ARMA(p,q)... model. Analytics vidhya, Analytics India, my university professor all have failed to give a satisfiable explanation on their choice. I will refer to the analytics india post, because the other two are hidden behind a login wall (I am NOT creating an account to analytics vidhya, no thanks).
+
+## Context
+The models I am discussing in this post are old. From back in the good ol' day when one had to actually understand what they are doing instead of calling some libray and praying that everything works as is.
+
+So, how would you describe a time series? What is it to begin with?
+
+### What
+A time series is a sequence of random variables. Exactly what life is. A stochastic interpretation of real-world phenomena, GPS position, stock prices, energy consumption... as a function of time.
+
+### How
+How would you model it? Imagine a very simplistic setting of rolling a dice. This event is clearly independent of time, but it is also a sequence of random variables. You know some stochastic properties of every possible sample i.e. their distribution. You probably want to describe this sequence in a general way (you would want to forecast future samples). The way statisticians have solved this problem is with a _Stochastic Process_. 
+
+### AR(p)
