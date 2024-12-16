@@ -1,0 +1,109 @@
+---
+title: "\U0001F4AA Mixed-method UX Study of Stroke Rehab Robotics"
+layout: post
+date: 2019-08-12 20:00
+image: "/assets/images/rehab/hand.jpg"
+tag:
+- Accessibility
+- Usability Study
+- Semi-structured Interview
+- Questionnaires
+- Mixed-method
+- Rehabilitation
+projects: true
+category: project
+author: chloeng
+description: Rehab Robotics
+---
+
+## User perspectives on Robotics for Post-stroke Hand Rehabilitation
+<b>
+<b>Nature: </b> Mixed-method User Research
+
+<b>
+<b>Type: </b> Individual project
+
+<b>
+<b>Methodologies: </b> Validated questionnaires, semi-structured interviews, thematic analysis
+
+<b>
+<b>Duration: </b> 4 months
+
+
+
+
+<img alt="exoskeleton" src="https://chloenhy.github.io/assets/images/rehab/rehab.jpg" />
+## Overview
+<b>This is an individual user research project on assistive technology. The project started with my personal interests in how technology can help with people affected by various neurological issues, both as a patient and as a caregiver. I conducted literature review on rehabilitation, biomedical engineering, and wearable technology to understand the status quo and the research gap. The resulting paper was accepted by ACM SIGACCESS Conference on Computers and Accessibility Student Research Competition 2019.
+
+## Background
+<b>In recent years, small-scale home-based robotics for rehabilitative exercises have been on a rise, potentially complementing physiotherapist capacity. These home-based devices allow patient to exercise conveniently and frequently at their own schedule. However, "home-based" also means that the effectiveness of exercise rely largely on patients' motivation to use those devices. User experience is therefore worth-considering when designing rehabilitative robotics. <span class="evidence">Despite the importance of understanding user perception on rehabilitative devices, few studies have been done on patients’ subjective experience in robot-assisted rehabilitation</span>.
+
+## Research Approach
+### Method
+<b>I designed a preliminary study aiming to elicit user perception of a post-stroke rehabilitation device.  I specifically studied the perception of primary user (patient), secondary user (carer) as well as design expert in rehabilitative device so as to give an overall picture of how users perceive the device.
+
+<b>I <span class="evidence">combined in-depth interviews with participants and quantitative measures</span> from the Credibility and Expectancy Questionnaire (CEQ) and Intrinsic Motivation Inventory (IMI) to assess users’ subjective opinions in this study.  Results help <span class="evidence">understand which factors each stakeholders prioritize for a rehab robotics</span>, and revealed split attitudes across stakeholders.
+
+<br>
+![Markdowm Image][1]{: class="bigger-image" }
+<figcaption class="caption">Images of a stroke patient’s hand in four positions: open hand without assistance, cylindrical grip, three-finger grip, and full extension with the exoskeleton (from left to right).</figcaption>
+<br>
+<br>
+
+
+## Findings
+- <b> The results highlight a <b>dichotomy</b> between stroke patients/caregivers and domain experts.
+
+- <b> From the CEQ, we learnt that <b>both stroke patients and caregivers considered the device as credible</b> and expected hand dexterity improvements from using the device.
+
+- <b> In contrast, <b>domain experts did not see the device as credible</b> and useful to improve impaired hand motor function.
+
+- <b> The reason might be that <span class="evidence">participants’ feedback for the device is associated with their <b>previous experience</b> with rehabilitative device</span>.
+
+The four themes emerged from the interviews were:
+- <b> <b>Perceived Efficacy</b> - Participants were able to propose use case scenarios to put the device in the context of patient daily life.
+
+- <b> <b>Combining device usage with current physiotherapies and ADL</b> - Participants understood how the device can help in rehabilitation, but would also like to see how the device can aid daily activities instead of only the existing pre-defined movements.
+
+- <b> <b>Negative feedback for the exoskeleton mechanism</b> -  Most participants expressed negative feedback towards the process of putting on the device, and the slow and restrained movement mechanism.
+
+- <b> <b>Weight and Appearance</b> - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.
+
+
+## What did I learn
+<b><b>The importance of healthcare research</b> - To me, one of the most inspiring moments in this project is when I  introduce the robotic device, which allow usage anytime, anywhere, to patients and carers. The amusement and hope in the eyes of some of the participants motivated me to continue with this project despite the pressure of four individual project running concurrently.
+
+<b><b>Recruiting right</b> -
+Due to the specificity of the recruitment screener and time constraint (finishing the whole project within 3 months), it was challenging to find the right participants. At first, I tried to contact organizations for stroke patients, but most of them require extensive communication (i.e. email back and forth) and paperwork so as to ensure the right participants can be reached. This time-consuming and uncertain process is therefore not viable for this project. <span class='evidence'>I turned from the top-down approach and started recruiting participants from the bottom</span>, individually through community groups (for patients and carers) and university connection (for domain experts). <span class='evidence'>By contacting potential participants directly,   I was able to receive quick response and confirm logistics</span>.
+
+
+## Conclusion
+<b> Overall, this study shows that <b>having stroke patients and caregivers in subjective evaluation is crucial</b> as it might yield differing views from domain experts. The above findings could <b>inform future design iteration of the device</b>. They are also important to the design of future robotic device for rehabilitation because we understand that <span class='evidence'>not only the clinical effectiveness, but also the <b>perceived effectiveness</b> of stroke patients and their caregivers is crucial</span> in whether the patients would adhere to the rehabilitation practice.
+
+<b> Due to the limited research in user evaluation of rehabilitative device, especially in the hand motor function domain, this study provides <b>a reference point for future research in subjective evaluation of rehabilitative device</b>. There are also several caveats of this study: due to the limited sample size of participants, <b>results lack generalizability</b>. In particular, no statistical analysis was possible of the questionnaire data, and the themes within the thematic analysis did not reach a saturation point. <b>Stricter inclusion criteria are also needed </b> to include only stroke patients with and caregivers of patients with medium to severe hand impairment that robot-assisted rehabilitation is more suitable for.
+
+<div class="side-by-side">
+    <div class="toleft">
+        <b>Update</b>
+        <p><b> In July 2019, I shared my project with the design community in London. So glad to meet with like-minded people who's passionate about HCI in healthcare!</b></p>
+    </div>
+
+    <div class="toright">
+      <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The user experience of post-stroke hand rehabilitation robotics: A mixed-method study. A lot of the robotics nowadays focus on efficiency so Chloe conducts research to understand how people use the <a href="https://twitter.com/hashtag/robots?src=hash&amp;ref_src=twsrc%5Etfw">#robots</a> and their experiences <a href="https://twitter.com/hashtag/ixd?src=hash&amp;ref_src=twsrc%5Etfw">#ixd</a> <a href="https://t.co/Lweg0QK6x1">pic.twitter.com/Lweg0QK6x1</a></p>&mdash; IxDA London Local (@IxDALondon) <a href="https://twitter.com/IxDALondon/status/1156644106992590848?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <p><b> As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html"  target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility SRC. 🎉</b></p>
+    </div>
+    <div class="toright">
+        <img src="https://chloenhy.github.io/assets/images/rehab/poster.jpg" alt="presentation poster" size="100%"/>
+    </div>
+</div>
+<div class="breaker">
+</div>
+
+[1]: https://chloenhy.github.io/assets/images/rehab/combined.png

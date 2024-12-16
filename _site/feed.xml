@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-10T13:27:34+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Mixed-method User Research&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Team project with 6 members from psychology, computer science and UI design backgrounds&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt; Field visit, semi-structured interview, thematic analysis, observation&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 4 months&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;My role: &lt;/b&gt; User Researcher&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh1.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The physical dashboard that is currently used at the ICU.&lt;/figcaption&gt;
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;p&gt;In this project, &lt;span class=&quot;evidence&quot;&gt;I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to provide real-time ward data, so as to inform timely decision making, thereby better patient care at the Intensive Care Unit (ICU).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for user testing. I worked as a user researcher to conduct the field work to understand how well the existing prototype address the user need.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/icu_dashboard.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The first prototype of the patient data dashboard for usability testing. All data are fictional.&lt;/figcaption&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;research-approach&quot;&gt;Research approach&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt; I used semi-structured interview accompanied with observation during an ICU visit. I interviewed junior doctor, one of the user groups in this study. The data was transcribed and analysed thematically&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Semi-structured interview is a common qualitative research approach in health services when we want to understand subjective perspectives. &lt;span class=&quot;evidence&quot;&gt;Interviewing users allows me to understand the user workflow and mental models flexibly.&lt;/span&gt; Following an interview protocol prepared earlier, I asked the doctor questions under different points of interests, but also follow-up questions on the new ideas raised by the interviewee. &lt;span class=&quot;evidence&quot;&gt;Being able to ask follow-up questions right away was also a benefit of semi-structured interview as it allows the flexibility to dig deep on insights.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; &lt;span class=&quot;evidence&quot;&gt;The fact that we were conducting the interview at an open corridor at the ICU, though initially a constraint due to the doctor’s tight schedule, as well encouraged interaction with the staff who passed by.&lt;/span&gt; This not only made the interview process more relaxing, but also sparked discussion surrounding the use of dashboard and general opinions among other staff members.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; As the interviewee explained the difficulty around patient information retrieval, &lt;span class=&quot;evidence&quot;&gt;I observed the cumbersome workflow of getting the heart rate data of one patient in the existing  Intensive Care Information Platform (ICIP).&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;findings&quot;&gt;Findings&lt;/h2&gt;
+
+&lt;h3 id=&quot;identifying-workflow&quot;&gt;Identifying workflow&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt; During the analysis, I represented the user journey as &lt;i&gt;a day in the life of junior doctor&lt;/i&gt; in a concise way. I extracted significant timestamps from the work that the doctor does in a “typical” day, a “good” day, and a “bad” day to construct the timeline.
+Each timestamp represent a point of interaction with the dashboard.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh3.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A day in the life of a Junior Doctor at the ICU.&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; A few themes emerged after the thematic analysis of interview transcription.&lt;/b&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;target-metrics&quot;&gt;Target metrics&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; &lt;span class=&quot;evidence&quot;&gt;Amalgamated data on all metrics would be helpful for junior doctor, i.e. statistics on all patients’ progress collectively&lt;/span&gt;, in contrast to what a nurse would prefer, i.e. to go through each patient individually.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; There is a need to describe in details on some metrics that might not be familiar to ward staff. For example, &lt;span class=&quot;evidence&quot;&gt;explaining the ideal tidal volume target range next to the metric&lt;/span&gt;.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;b&gt; 3. Some other target metrics necessary to the doctor’s workflow that the existing prototype lacks:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt; Antibiotic taken&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Time last taken&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Urine output&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Length of Stay&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Average temperature&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Heart rate&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; No. of patients being ventilated&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;b&gt;Impact 👉&lt;/b&gt;Clinicians and Care Consultants will reference these target metrics as they further examine the clinical use of those metrics. Metrics will be included for junior doctor’s view of dashboard.&lt;/b&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;user-interface&quot;&gt;User Interface&lt;/h3&gt;
+
+&lt;p&gt;&lt;b&gt;The map visualization of the ICU was particularly appreciated. It fits into the mental model of the staff when navigating around the ICU. It was easy for them to associate a patient with a location on a map.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;However, there was no clear navigation between pages. There needs to be a locator and back button on every pages. Color coding also lacks explaination.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/maps.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Conceptual designs. On the left are legends added to explain the the ideal range of tidal volume, while on the right is an example of conspicuous color coding. Mockups courtesy of Federico.&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;b&gt;Impact 👉&lt;/b&gt;The usability issues identified were highly appreciated by the UI designer and Care Consultants. Issues will be improved in the next iteration.&lt;/b&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;potential-risks&quot;&gt;Potential risks&lt;/h3&gt;
+&lt;h4 id=&quot;staff-morality&quot;&gt;&lt;b&gt;Staff morality&lt;/b&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span class=&quot;evidence&quot;&gt;The dashboard could lead to a blame culture: wherever out of standard metrics are seen, the responsible nurse is held accountable and might be seen as incompetent.&lt;/span&gt; Yet, the patient might just be very sick at that moment, regardless of the nurse’s ability.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i&gt;&lt;b&gt;“… just looking at this [the four red coded patient bed shown on the dashboard], &lt;b&gt;it kind of flags up those four patients and it does suggest that the people looking after these patients are doing something wrong&lt;/b&gt;.”&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i&gt;&lt;b&gt;“&lt;b&gt;Or they might actually just be really sick and none of us are able to fix it.&lt;/b&gt; But, just looking at this [dashboard], you can’t see that.”&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;&lt;span class=&quot;evidence&quot;&gt;Although patient care is the top priority, people relationships and a healthy work culture are also important and will inevitably affect patient care.&lt;/span&gt; If the technology promotes a blame culture, its usefulness is massively reduced and may even lead to abandonment.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;data-safety&quot;&gt;Data safety&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;The current dashboard prototype is located at the corridor outside the staff rest room. Although it is enclosed within the ICU, there are risks that relatives would misinterpret information presented on the dashboard.
+&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i&gt;&lt;b&gt;“If it [the dashboard] was nearer the front desk that makes me uncomfortable because of &lt;b&gt;confidentiality&lt;/b&gt;, but also because this is the sort of thing that &lt;b&gt;can cause alarm for their relatives&lt;/b&gt;.”&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;&lt;b&gt;Impact 👉&lt;/b&gt;Future iteration will consider implementing access control: Only managerial staff would see the performance of each staff so that they could act upon out of range performance by providing appropriate training. Access control also prevents unauthorised users from accessing sensitive information, therefore preventing metrics being interpreted out of context.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;h2 id=&quot;outcome-and-deliverables&quot;&gt;Outcome and Deliverables&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;&lt;span class=&quot;evidence&quot;&gt;The effective use of a healthcare system requires building trust with the users. Healthcare systems are highly safety-critical, as our interviewee once said: &lt;i&gt;&lt;b&gt;“If you change your system to incorporate a new bit of technology, it needs to prove its worth, otherwise I would lose faith.”&lt;/b&gt;&lt;/i&gt;&lt;/span&gt; That is why the design of patient data dashboard require multiple stages of iteration, user research, and testing before rolling out for actual use.  This current user research project is part of the greater development of the patient data dashboard. I represented my user group to present findings and design implications to the UCLH Health Informatics Team. Through the presentation meeting, I interacted with different stakeholders in the organization, including their junior doctors, critical care consultants, data scientists, software engineers, and UX designer.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span class=&quot;evidence&quot;&gt;The team highly appreciated our findings and design implication, and will include them for the next iteration.&lt;/span&gt; The implication on interface usability will be implemented, while the advice on access control and dashboard location need further data collection to represent opinions of other user groups.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/ICU-presentation.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Presenting the findings with another colleague Juspreet, who is responsible for the user need of audit staff. I promise there were at least ten other audiences 😉. &lt;/figcaption&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Nature: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">🤳 Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="🤳  Connecting Solo Museum Visitors" /><published>2019-08-12T22:44:00+01:00</published><updated>2019-08-12T22:44:00+01:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;end-to-end-design-project-connecting-museum-visitors&quot;&gt;End-to-end design project: Connecting museum visitors&lt;/h1&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Full cycle of research: design, testing, iteration, and final prototype&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Team project with 4 members Juspreet, James, Carol, and myself
+(from psychology, industrial design, and computer science backgrounds)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt; Survey, interview, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 4 months&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;My role: &lt;/b&gt; User Researcher, ideation and prototyper&lt;/b&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#user-research&quot;&gt;User Research&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#design&quot;&gt;Design Process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#usability-testing&quot;&gt;Usability Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#final-design&quot;&gt;Final Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;user-research&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+In recent years, art museums have become increasingly popular, with the largest exhibitions worldwide seeing up to 10,000 visitors each day (Pes &amp;amp; Sharpe, 2012). Social interaction has a crucial influence on visitors’ perception of artwork, as well as the museum experience as a whole (Tröndle et al., 2012). Social interaction may allow the transference of knowledge due to the possibility of discussing the meaning behind artwork (Sintas, Álvarez, &amp;amp; Rubiales, 2013).
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+Despite the importance of social interaction within the museum setting, many visitors may not have opportunities to discuss their thoughts with others, particularly when visiting alone.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+This project aimed to design a solution allowing museum visitors to interact with other people of their choosing in a way that would be comfortable for them.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;1-user-research-and-establishing-requirements&quot;&gt;1 User Research and Establishing Requirements&lt;/h2&gt;
+
+&lt;h3 id=&quot;11-questionnaire&quot;&gt;1.1 Questionnaire&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;60 responses from questionnaire&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/whiteboard.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;My teammate and I organising questionnaire data.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;
+To begin to develop an understanding of our users’ needs, we constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;12-interview-and-observation&quot;&gt;1.2 Interview and observation&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;10 semi-structured interviews
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumhall2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;figcaption&gt;At Tate&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+We conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/gallery.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Field visit at art museums around London.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;
+Visitors were conscious of moving on quickly so that other visitors could have the chance to read the label. The interactive displays we observed seemed to discourage collaboration as they used individual booths or screens where it was difficult for more than one person to use the system at any one time.&lt;br /&gt;
+&lt;/b&gt;&lt;/p&gt;
+&lt;h3 id=&quot;13-analysing-research-data&quot;&gt;1.3 Analysing research data&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/quotes.png&quot; alt=&quot;Markdown Image&quot; class=&quot;bigger-image&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/affinity.jpg&quot; alt=&quot;Markdown Image&quot; class=&quot;smaller-image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Quotes and affinity diagram&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+Some of the key ideas that emerged were:
+&lt;/b&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;People feel relaxed, peaceful, reflective, and free when they visit museums alone but also feel lonely and/or curious about the artwork.&lt;/li&gt;
+    &lt;li&gt;In order to feel more comfortable interacting with others, people do not want to be the one to initiate a verbal conversation and would prefer indirect facilities rather than direct conversation.&lt;/li&gt;
+    &lt;li&gt;People would like to talk to people with similar interests as them and the opportunity to talk to staff and artists.&lt;/li&gt;
+    &lt;li&gt;Some people did not want to talk to others and had concerns about speaking loudly in the museum setting.&lt;/li&gt;
+    &lt;li&gt;Discussions should revolve around the artwork and people’s opinions.&lt;/li&gt;
+    &lt;li&gt;Experiences are currently shared through discussions, social media, and pictures.&lt;/li&gt;
+    &lt;li&gt;One of the key findings emerging from interviewing members of staff was that often even when exhibitions required collaboration from visitors, this rarely encouraged direct conversation about the artwork itself to occur naturally.
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;design&quot;&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;b&gt;
+Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;2-design-process&quot;&gt;2 Design Process&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;21-ideation-crazy-eight-brainstorming&quot;&gt;2.1 Ideation: Crazy-eight brainstorming&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumSketch.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Sketches of my intervention ideas at museums.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;&lt;span class=&quot;evidence&quot;&gt;I came up with concepts that were of general and coarse granularity.&lt;/span&gt; For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;22-refining-ideas&quot;&gt;2.2 Refining ideas&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+As a group, we eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/design-funnel.png&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;br /&gt;
+We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;23-parallel-prototyping&quot;&gt;2.3 Parallel Prototyping&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;wireframes-and-prototyping&quot;&gt;Wireframes and prototyping&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/low-fi.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Some of the lo-fi wireframes I created.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/mid-fi.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Some of the medium fidelity mockups I created.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h4 id=&quot;user-journey-storyboarding&quot;&gt;User journey storyboarding&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt;
+To align our team’s design goal, I created a storyboard listing the key moments of interaction and ensure everyone agree the same experience we were going to design.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/storyboard.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Some of the storyboards I created.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;
+We then moved on to discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;internal-evaluation-of-prototype&quot;&gt;Internal evaluation of prototype&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt;
+Each of our team members took turn to explain the mentla models behind our designs. We discussed and critiqued each other’s work. Eventually came up with minimum viable prototypes (MVP) for further testing.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/prototypeDiscussion.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Discussion and evaluation of wireframes with my teammates.&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;usability-testing&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-usability-testing&quot;&gt;3 Usability Testing&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+I co-led usability tests with our user group using paper prototype. This informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/paperTesting.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;
+The response for choosing between continuous scrolling and tab node was mixed. Some prefer scrolling as less attention required to navigate around the app, while other prefer tab mode could give an overview of the artwork and comment tabs at the beginning.
+&lt;/b&gt;
+&lt;b&gt;
+Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;final-design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;4-final-design&quot;&gt;4 Final design&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final1.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final2.png&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final3.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;
+Thanks for reading!
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">💪 Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="💪 Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Mixed-method User Research&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt; Validated questionnaires, semi-structured interviews, thematic analysis&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 4 months&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;exoskeleton&quot; src=&quot;https://chloenhy.github.io/assets/images/rehab/rehab.jpg&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;This is an individual user research project on assistive technology. The project started with my personal interests in how technology can help with people affected by various neurological issues, both as a patient and as a caregiver. I conducted literature review on rehabilitation, biomedical engineering, and wearable technology to understand the status quo and the research gap. The resulting paper was accepted by ACM SIGACCESS Conference on Computers and Accessibility Student Research Competition 2019.&lt;/b&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;In recent years, small-scale home-based robotics for rehabilitative exercises have been on a rise, potentially complementing physiotherapist capacity. These home-based devices allow patient to exercise conveniently and frequently at their own schedule. However, “home-based” also means that the effectiveness of exercise rely largely on patients’ motivation to use those devices. User experience is therefore worth-considering when designing rehabilitative robotics. &lt;span class=&quot;evidence&quot;&gt;Despite the importance of understanding user perception on rehabilitative devices, few studies have been done on patients’ subjective experience in robot-assisted rehabilitation&lt;/span&gt;.&lt;/b&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;research-approach&quot;&gt;Research Approach&lt;/h2&gt;
+&lt;h3 id=&quot;method&quot;&gt;Method&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;I designed a preliminary study aiming to elicit user perception of a post-stroke rehabilitation device.  I specifically studied the perception of primary user (patient), secondary user (carer) as well as design expert in rehabilitative device so as to give an overall picture of how users perceive the device.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;I &lt;span class=&quot;evidence&quot;&gt;combined in-depth interviews with participants and quantitative measures&lt;/span&gt; from the Credibility and Expectancy Questionnaire (CEQ) and Intrinsic Motivation Inventory (IMI) to assess users’ subjective opinions in this study.  Results help &lt;span class=&quot;evidence&quot;&gt;understand which factors each stakeholders prioritize for a rehab robotics&lt;/span&gt;, and revealed split attitudes across stakeholders.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/rehab/combined.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Images of a stroke patient’s hand in four positions: open hand without assistance, cylindrical grip, three-finger grip, and full extension with the exoskeleton (from left to right).&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;findings&quot;&gt;Findings&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; The results highlight a &lt;b&gt;dichotomy&lt;/b&gt; between stroke patients/caregivers and domain experts.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; From the CEQ, we learnt that &lt;b&gt;both stroke patients and caregivers considered the device as credible&lt;/b&gt; and expected hand dexterity improvements from using the device.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; In contrast, &lt;b&gt;domain experts did not see the device as credible&lt;/b&gt; and useful to improve impaired hand motor function.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; The reason might be that &lt;span class=&quot;evidence&quot;&gt;participants’ feedback for the device is associated with their &lt;b&gt;previous experience&lt;/b&gt; with rehabilitative device&lt;/span&gt;.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The four themes emerged from the interviews were:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; &lt;b&gt;Perceived Efficacy&lt;/b&gt; - Participants were able to propose use case scenarios to put the device in the context of patient daily life.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; &lt;b&gt;Combining device usage with current physiotherapies and ADL&lt;/b&gt; - Participants understood how the device can help in rehabilitation, but would also like to see how the device can aid daily activities instead of only the existing pre-defined movements.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; &lt;b&gt;Negative feedback for the exoskeleton mechanism&lt;/b&gt; -  Most participants expressed negative feedback towards the process of putting on the device, and the slow and restrained movement mechanism.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; &lt;b&gt;Weight and Appearance&lt;/b&gt; - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-did-i-learn&quot;&gt;What did I learn&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;&lt;b&gt;The importance of healthcare research&lt;/b&gt; - To me, one of the most inspiring moments in this project is when I  introduce the robotic device, which allow usage anytime, anywhere, to patients and carers. The amusement and hope in the eyes of some of the participants motivated me to continue with this project despite the pressure of four individual project running concurrently.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;b&gt;Recruiting right&lt;/b&gt; -
+Due to the specificity of the recruitment screener and time constraint (finishing the whole project within 3 months), it was challenging to find the right participants. At first, I tried to contact organizations for stroke patients, but most of them require extensive communication (i.e. email back and forth) and paperwork so as to ensure the right participants can be reached. This time-consuming and uncertain process is therefore not viable for this project. &lt;span class=&quot;evidence&quot;&gt;I turned from the top-down approach and started recruiting participants from the bottom&lt;/span&gt;, individually through community groups (for patients and carers) and university connection (for domain experts). &lt;span class=&quot;evidence&quot;&gt;By contacting potential participants directly,   I was able to receive quick response and confirm logistics&lt;/span&gt;.&lt;/b&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt; Overall, this study shows that &lt;b&gt;having stroke patients and caregivers in subjective evaluation is crucial&lt;/b&gt; as it might yield differing views from domain experts. The above findings could &lt;b&gt;inform future design iteration of the device&lt;/b&gt;. They are also important to the design of future robotic device for rehabilitation because we understand that &lt;span class=&quot;evidence&quot;&gt;not only the clinical effectiveness, but also the &lt;b&gt;perceived effectiveness&lt;/b&gt; of stroke patients and their caregivers is crucial&lt;/span&gt; in whether the patients would adhere to the rehabilitation practice.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Due to the limited research in user evaluation of rehabilitative device, especially in the hand motor function domain, this study provides &lt;b&gt;a reference point for future research in subjective evaluation of rehabilitative device&lt;/b&gt;. There are also several caveats of this study: due to the limited sample size of participants, &lt;b&gt;results lack generalizability&lt;/b&gt;. In particular, no statistical analysis was possible of the questionnaire data, and the themes within the thematic analysis did not reach a saturation point. &lt;b&gt;Stricter inclusion criteria are also needed &lt;/b&gt; to include only stroke patients with and caregivers of patients with medium to severe hand impairment that robot-assisted rehabilitation is more suitable for.&lt;/b&gt;&lt;/p&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;b&gt;Update&lt;/b&gt;
+        &lt;p&gt;&lt;b&gt; In July 2019, I shared my project with the design community in London. So glad to meet with like-minded people who's passionate about HCI in healthcare!&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+      &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The user experience of post-stroke hand rehabilitation robotics: A mixed-method study. A lot of the robotics nowadays focus on efficiency so Chloe conducts research to understand how people use the &lt;a href=&quot;https://twitter.com/hashtag/robots?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#robots&lt;/a&gt; and their experiences &lt;a href=&quot;https://twitter.com/hashtag/ixd?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#ixd&lt;/a&gt; &lt;a href=&quot;https://t.co/Lweg0QK6x1&quot;&gt;pic.twitter.com/Lweg0QK6x1&lt;/a&gt;&lt;/p&gt;&amp;mdash; IxDA London Local (@IxDALondon) &lt;a href=&quot;https://twitter.com/IxDALondon/status/1156644106992590848?ref_src=twsrc%5Etfw&quot;&gt;July 31, 2019&lt;/a&gt;&lt;/blockquote&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;&lt;b&gt; As of 13 August 2019, this work has been conditionally accepted to &lt;a href=&quot;https://assets19.sigaccess.org/index.html&quot; target=&quot;_blank&quot;&gt;ACM SIGACCESS&lt;/a&gt; Conference on Computers and Accessibility SRC. 🎉&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img src=&quot;https://chloenhy.github.io/assets/images/rehab/poster.jpg&quot; alt=&quot;presentation poster&quot; size=&quot;100%&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;breaker&quot;&gt;
+&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Nature: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">👋 Exploring hand gestural control for mobile devices</title><link href="http://localhost:4000/gesture/" rel="alternate" type="text/html" title="👋 Exploring hand gestural control for mobile devices" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/gesture</id><content type="html" xml:base="http://localhost:4000/gesture/">&lt;h2 id=&quot;eliciting-user-defined-touch-and-mid-air-gestures-for-co-located-mobile-gaming&quot;&gt;Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Academic research&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt; Questionnaires, interviews, think-aloud, survey, thematic analysis, data visualisation, descriptive statistics, t-tests&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 4 months&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;My role: &lt;/b&gt; I managed the entire project starting from literature review of past gesture elicitation studies and gestural control. Following the study design, which includes survey design, artifact design, interview script, I went on recruiting participants and carrying out the lab sessions. After collecting video recordings of the elicitation and survey response, I coded the quant/qual data for analysis, subsequently writing up the report.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/gesture/example-gesture.jpg&quot; alt=&quot;example gestures&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Examples of mid-air gestures from the study&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;
+In recent years, mobile games have become increasingly popular and have largely improved on their interaction techniques. This improvement is enabled by the increasing capability in modern mobile devices as they feature sophisticated sensors such as accelerometers, gyroscope, and motion sensors, which allows for a vast range of input methods.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+To make use of the improving capability in mobile devices in the domain of mobile games, there has been research that explores alternative input methods (other than using capacitive touchscreens).
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h3 id=&quot;research-approach&quot;&gt;Research Approach&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;
+In this research, I aim &lt;span class=&quot;evidence&quot;&gt;to explore the use of gesture controls in co-located mobile gaming, an area that has not been focused on in the industry and research community&lt;/span&gt;. I will explore traditional multiplayer tabletop games such as board and card games due to their clearly defined game tasks, and the communicative nature of the game, and the materiality of the game materials cherished by players in a co-located setting.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h3 id=&quot;methodology&quot;&gt;Methodology&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;
+I draw upon the widely adopted gesture elicitation methodology to understand user mental models and help develop user-defined gestures.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;User elicitation is one form of participatory design to include users’ mental models and proposals in designing new interaction techniques. &lt;span class=&quot;evidence&quot;&gt;Elicitation studies aim to invoke easy-to-learn and memorable user-defined gestures&lt;/span&gt; instead of gestures that are optimised for machine recognition. In an elicitation, participants are asked to propose gestures to achieve tasks (known as referents) in a specified modality.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img alt=&quot;study setup&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/study-setup.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+I conducted a gesture elicitation study for tasks common in a multiplayer card and board game moderated by mobile devices. I recruited 24 participants in pairs. Twelve were working professionals different backgrounds such as analytics, marketing, engineering, clinical settings, and sports. The other twelve were university students in various disciplines.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+&lt;img alt=&quot;participants&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/participants.jpg&quot; width=&quot;60%&quot; height=&quot;60%&quot; align=&quot;middle&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;figcaption&gt;One of the participant pairs proposing gestures&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Research question:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;b&gt;How can the results and observations made in a gesture elicitation for game tasks inform gesture design for co-located multiplayer mobile games?&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h3 id=&quot;data-collection-and-analysis&quot;&gt;Data Collection and Analysis&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Data collected include &lt;b&gt;observational notes&lt;/b&gt; jotted by the experimenter and the &lt;b&gt;video recordings&lt;/b&gt; of the entire sessions, including the elicitation and the post-study interviews. The &lt;b&gt;pre-&lt;/b&gt; and &lt;b&gt;post-study questionnaires&lt;/b&gt; contain demographic, technology usage habits, Likert-scale and free-form responses. &lt;b&gt;Descriptive statistics&lt;/b&gt; were generated from the Likert-scale questions.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;All gestures were coded and fed into the &lt;a href=&quot;http://depts.washington.edu/acelab/proj/dollar/agate.html&quot; target=&quot;_blank&quot;&gt;AGAte 2.0 tool&lt;/a&gt; for &lt;b&gt;agreement rate&lt;/b&gt; calculation.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/gesture/agate.jpg&quot; alt=&quot;AGAte 2.0 tool screenshot&quot; /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;figcaption&gt;Screenshot of the AGAte software for analysing the agreement rates among gestures&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;The final consensus gesture set:&lt;/b&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+&lt;img alt=&quot;mid air gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+&lt;img alt=&quot;touch gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;quantitative-findings&quot;&gt;Quantitative findings&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt;A total of 662 gesture proposals, with 286 distinct gestures (by referents) were collected. t-tests were performed to compare gesture proposals between Mid-air and Touch modality.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;b&gt;Agreement rates&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;As expected, the average agreement for Touch gestures (ARtouch=0.215) was higher than that for Mid-air gestures (ARmid-air=0.101) i.e.  a wider variety of gesture proposals in the Mid-air modality than in the Touch modality.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Two dichotomous pairs – Give cardtouch / Take cardtouch and Give chiptouch / Take chiptouch show a significant difference in agreement rates. However, we did not see a specific trend in these differences.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg&quot; alt=&quot;bar chart of the agreement rates&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;b&gt;Subjective rating&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;In general, participants found it fun to propose gesture by themselves (mean=6.25, SD=0.77) and with a partner (mean=6.55, SD=0.81).&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;However, 7 participants found it difficult to suggest gestures (mean=3.41, SD=1.73).&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Regarding the final gestures chosen favourite, participants agreed that the set was a good fit for its purpose (mean=6.46, SD=0.58), and to a lesser extent, learnable (mean=5.67, SD=1.40) and easy to perform (mean=5.92, SD=0.95).&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; Response was mixed for whether the gestures were tiring to perform (mean=3.5, SD=1.80).&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;img alt=&quot;survey&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg&quot; width=&quot;60%&quot; height=&quot;60%&quot; align=&quot;middle&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;b&gt;Taxonomy&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Findings from the taxonomy are omitted in this post.&lt;/b&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;img alt=&quot;survey&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/overall-taxonomy.jpg&quot; width=&quot;60%&quot; height=&quot;60%&quot; align=&quot;middle&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;img alt=&quot;survey&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/nature-temporalflow.jpg&quot; width=&quot;60%&quot; height=&quot;60%&quot; align=&quot;middle&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;img alt=&quot;survey&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/actor.jpg&quot; width=&quot;60%&quot; height=&quot;60%&quot; align=&quot;middle&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;qualitative-findings&quot;&gt;Qualitative findings&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt; Six themes emerged from the thematic analysis of interviews, think-aloud data during the elicitation and written comments in our post-study questionnaires.&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;All participants welcomed the idea of using gestures to control mobile devices in a board or card game, but to various extent.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;They welcomed gestural control due to the novelty of alternative gestures and the potential of gesture to streamline the game flow.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Besides the inclination for “something other than touch” in games, participants preferred gestures that give them a sense of achievement and foster interaction between players.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img alt=&quot;collaborative gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Participants recognised realistic gestures can assist the game by forming shared situation awareness in all players.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Participants were enthusiastic about proposing artefact- manipulative gestures and frequently described them as “fun”.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Participants considered social etiquette when using gesture for a referent that involves a partner.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img alt=&quot;transfer gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/transfer-gesture.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Similar to prior studies, legacy bias affect how participants propose gestures.&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;implication&quot;&gt;Implication&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Here are some brief design implication from the study.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;b&gt;On Input Modality&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt; The agreement rates of each referent/modality combination can give insights into the suitable modality for a referent&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;b&gt;On Gesture Design&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; Consider using gestures to enhance situation awareness.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; Take advantage of modalities beyond touch to enrich the co- located gaming experience for all stakeholders, as well as to be inclusive to novice players with the educational opportunities provided by gestural input.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; Design a cohesive gesture set that is available across different form factors&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; Explore explicit visual feedback to guide users in their action, as feedback can help users build their understanding of the gesture-based system.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;b&gt;On Sensing Technology&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt; Use multiple inputs concurrently or in sequence to recognise complete compound gestures.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;  Be resilient to the differences in the number of fingers for touch gesture&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;This post serves as an overview of some main points in the paper that some bits here and there are omitted. The detailed explanation of the participants, procedure, artifacts, agreement rates, taxonomy and gestures are presented in the full paper. Feel free to drop me a message if you are interested!&lt;/b&gt;&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Cross-device" /><category term="Data Visualisation" /><category term="Statistical test" /><category term="Exit Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><summary type="html">Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming Nature: Academic research</summary></entry><entry><title type="html">📊 Human-centered Data Visualization</title><link href="http://localhost:4000/dataVis/" rel="alternate" type="text/html" title="📊 Human-centered Data Visualization" /><published>2019-08-10T22:00:00+01:00</published><updated>2019-08-10T22:00:00+01:00</updated><id>http://localhost:4000/dataVis</id><content type="html" xml:base="http://localhost:4000/dataVis/">&lt;style&gt;
+    .graph-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    }
+&lt;/style&gt;
+
+&lt;h2 id=&quot;visualizing-data&quot;&gt;Visualizing data&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Data visualization design&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;My roles: &lt;/b&gt;  Literature Reviewer, Designer, Coder&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Tools: &lt;/b&gt; Python, Procreate, R, Graphviz&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 2 weeks&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/dataVis/wall-1.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;As personal computing power increases, there is an increasing need of understanding data. One way to achieve this is through data visualization - translating columns and rows into human-readable format. This project explores how to visualize data in a way that is compelling to the target audiences. &lt;span class=&quot;evidence&quot;&gt;The design was informed by previous literature on information retrieval and human perception principles.&lt;/span&gt; The visualization was built with Python (Plotly, Seaborn, matplotlib), R and graphviz. Visual effects by Procreate.&lt;/b&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/yzqpppNM3HIgtV&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Human perception" /><category term="Usability" /><category term="Data" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/" /></entry><entry><title type="html">🧘 ‍Interactive Tangible Prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="🧘 ‍Interactive Tangible Prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;mudrayama---an-interactive-prototype-to-aid-pranayama-yogic-breathing&quot;&gt;Mudrayama - an interactive prototype to aid pranayama yogic breathing&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Physical Prototyping&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt;  Arduino, sketching, 3D printing, laser cutting&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 2 months&lt;/b&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Being one of the main causes of the overall disease, mental health issues (including anxiety, depression) are affecting lives of millions worldwide, especially in young adults. Even though mental illness pose a negative impact on people’s development, there has not been sufficient measures from the tangible to support this issue.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Novel approach of using tangible cue&lt;/b&gt;
+&lt;br /&gt;
+Most of the technology-assisted meditation and pranayama breathing practice are limited to the use of mobile applications. Mudrayama is s proof-of-concept prototype that fits on your desk or bedroom side table to engage you with breathing practice.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img src=&quot;https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;how-it-works&quot;&gt;How it works&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Inhale-exhale:&lt;/b&gt;
+Move hand to control the light trail inside the twisted cylinder. As you inhale, your hand moves up gradually and steadily to control the light trail. You can then try to concentrate on your breath, synchonise your movement with your breath so that the movement of the flower and you breath will be steady and smooth. A flower print symbolising the  lotus in yoga rises as you move up and down with your hand. Hand down, the light trail and the flower return to original state, indicating the end of one breath cycle.&lt;/b&gt;&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;video autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; src=&quot;https://chloenhy.github.io/assets/images/pcp/pcp-bed.mp4&quot; width=&quot;320&quot; height=&quot;200&quot;&gt;
+    &lt;/video&gt;
+    &lt;figcaption class=&quot;caption&quot;&gt;Breathe in...breathe out...   The distance signal detection was unstable (even after averaging  out), which explains the flickering LED. 
+    &lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Hand mudra:&lt;/b&gt;
+Ending the sequence with your favorite yoga mudra to show gratitude to yourself. See the base of the prototype for more mudras. Patterns of yoga mudras (stock) were engraved and painted on the acrylic board.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;design-process&quot;&gt;Design process&lt;/h3&gt;
+&lt;p&gt;Early Sketches from brainstorming. Sketches that directly informed design of form factor:&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img src=&quot;https://chloenhy.github.io/assets/images/pcp/sketch.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;3D Printing&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;The major components of this prototype were 3D printed. The use is two-fold. Firstly, critical parts of motor linear functions were printed for testing. Due to printer quality &amp;amp; material characteristics, not all the prints worked successfully. They either were not printed fine enough to support the movement, or that the material was too fragile for components to be usable.
+&lt;/b&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;video autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; src=&quot;https://chloenhy.github.io/assets/images/pcp/3d-print2.mp4&quot; width=&quot;320&quot; height=&quot;400&quot;&gt;
+    &lt;/video&gt;
+    &lt;figcaption class=&quot;caption&quot;&gt;Half failing print :D&lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Laser cutting&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;Laser cutting with plain acrylic is used to construct a robust case to protect the electronic components, as well as integrating the distance sensor seamlessly into the product.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;video autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; src=&quot;https://chloenhy.github.io/assets/images/pcp/pcp-test.mp4&quot; width=&quot;320&quot; height=&quot;200&quot;&gt;           &lt;/video&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;video autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; src=&quot;https://chloenhy.github.io/assets/images/pcp/pcp-backyard.mp4&quot; width=&quot;320&quot; height=&quot;200&quot;&gt;
+    &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="proof-of-concept" /><category term="physical prototype" /><category term="3d print" /><category term="laser cut" /><category term="electronics" /><category term="arduino" /><summary type="html">Mudrayama - an interactive prototype to aid pranayama yogic breathing Nature: Physical Prototyping</summary></entry><entry><title type="html">🚘 Voice-interface training in simulated driving</title><link href="http://localhost:4000/vui/" rel="alternate" type="text/html" title="🚘 Voice-interface training in simulated driving" /><published>2018-10-24T22:44:00+01:00</published><updated>2018-10-24T22:44:00+01:00</updated><id>http://localhost:4000/vui</id><content type="html" xml:base="http://localhost:4000/vui/">&lt;h3 id=&quot;effects-of-voice-interface-training-on-driver-cognitive-workload-in-simulated-driving&quot;&gt;Effects of voice-interface training on driver cognitive workload in simulated driving&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt;  Research Proposal&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Method: &lt;/b&gt; Study design, Literature review, Quantitative, Physiological metrics&lt;/b&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;In this study, I am interested in understanding how voice control training would impact driving by measuring the physiological state of driver. Skin conductance level was used as a proxy to cognitive workload and stress.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Feel free to contact me for more details!&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/IxSci/drive.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;In recent years, the use of voice-based technology in cars has gained popularity as more drivers adopt voice control (VC) to help navigation while driving. In-car VC does not only offer multi-modal navigation ability but also enriches the driving experience by providing wider range of entertainment options (Luger and Sellen, 2016, Strayer et al., 2014). With the increasingly capable VC in car(Strayer et al., 2014), drivers might be encouraged to perform more secondary tasks than driving. Therefore, it is important to recognize VC potential threats to drivers, thereby on-road safety.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Impact of in-car systems on driving performance has been a focus in the research community. Previous research (Reimer et al, 2013, Jensen et al., 2010) consistently showed VC reduced visual interference compared to visual-based systems and induced less driving errors (Liang and Lee, 2010). The above might hint to us the benefits of VC due to reduced visual demand. Nevertheless, cognitive interference from VC system could still impair driving ability, and it remained underexplored in research.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Meanwhile, studies on VC showed users lacked or had poor mental models of how VC systems work, partially reinforced by the unuseful feedback from VC system (Luger and Sellen, 2016). Even after trial-and-error practice, users still faced obstacles to achieve tasks, thereby spending significant time to alter commands that could achieve their goals (Luna-Garcia et al, 2018). Incorrect use of VC could also distract drivers visually (Reimer et al. 2013). Therefore, it is important that drivers use VC with a better mental model that reduce visual and cognitive interference. Nevertheless, there was a lack of research into how learning to use VC affects driver’s cognitive workload.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Understanding the actual impact of VC on cognitive workload and how VC training might ease driver workload could better inform design of in-car voice systems, help build mental model and reduce cognitive workload in drivers, thus improving driving safety.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="research plan" /><category term="physiological metrics" /><category term="voice" /><category term="driving" /><category term="cognitive workload" /><category term="GSR" /><category term="skin conductance" /><category term="quantitative" /><summary type="html">Effects of voice-interface training on driver cognitive workload in simulated driving Nature: Research Proposal</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/IxSci/drive.jpg" /></entry><entry><title type="html">🚉 Self-service Ticket Machine Redesign</title><link href="http://localhost:4000/train-ticket/" rel="alternate" type="text/html" title="🚉 Self-service Ticket Machine Redesign" /><published>2018-08-11T22:00:00+01:00</published><updated>2018-08-11T22:00:00+01:00</updated><id>http://localhost:4000/train-ticket</id><content type="html" xml:base="http://localhost:4000/train-ticket/">&lt;h2 id=&quot;redesigning-a-ticket-machine-at-euston-train-station&quot;&gt;Redesigning a ticket machine at Euston Train Station&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Critical Interface Analysis and Redesign&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt;  Sketching, observation, heuristic evaluation&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 1 week&lt;/b&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;b&gt;
+This is a design activity in my Interaction Design class. We first choose a physical interface we use in our daily life that we could improve on, then we perform a heuristic evaluation with regard to human factor concepts. After analysing the interface and locating rooms for improvement, we propose new design or design refinement on the existing interface.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+I decided to evaluate this ticket vending area where I passed by every day. This area is full of passengers commuting to other parts of the UK via the national rail, and within London via tube and overground services. Purchasing or collecting train tickets at a self-service machine can sometimes be a pain. &lt;span class=&quot;evidence&quot;&gt; Although most interaction remains on screen, the design of physical machine can help increase learnability and save commuters’ time&lt;/span&gt;, thus avoid long queues at the ticket office. This is why a user-friendly ticket vending machine is useful in reducing people flow at the station, saving waiting time, and helping us catch the train!
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+In short, this redesign project focus on the two parts:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;To &lt;b&gt;critically analyse&lt;/b&gt; the existing user interface of a ticket vending machine and point out the potential problems&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;To address the identified problems with &lt;b&gt;design improvements&lt;/b&gt; of the machine interface
+&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+Here is a two-page explanation focusing on the evaluation and design process:
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/train/ticket1.jpg&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Design proposal:&lt;/b&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/train/ticket2.jpg&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt; At the end of this design activity, we presented our conceptual design and critique one another’s at a design artefact showcase with other designers.  This is an A2-sized poster created for a design critique and showcase:
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt=&quot;ticket poster&quot; src=&quot;https://chloenhy.github.io/assets/images/train/ticket-machine.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Heuristic Evaluation" /><category term="Critical Interface Analysis" /><category term="Usability Study" /><category term="Sketching techniques" /><category term="Physical Interface" /><summary type="html">Redesigning a ticket machine at Euston Train Station Nature: Critical Interface Analysis and Redesign</summary></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+00:00</published><updated>2016-02-24T22:48:00+00:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+
+&lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
+
+&lt;h4 id=&quot;especial-elements&quot;&gt;Especial Elements&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#evidence&quot;&gt;Evidence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#side-by-side&quot;&gt;Side-by-Side&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#star&quot;&gt;Star&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#especial-breaker&quot;&gt;Especial Breaker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#spoiler&quot;&gt;Spoiler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;external-elements&quot;&gt;External Elements&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#gist&quot;&gt;Gist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#codepen&quot;&gt;Codepen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#slideshare&quot;&gt;Slideshare&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#videos&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;evidence&quot;&gt;Evidence&lt;/h2&gt;
+
+&lt;p&gt;You can try the evidence!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.&lt;/span&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;evidence&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;side-by-side&quot;&gt;Side-by-side&lt;/h2&gt;
+
+&lt;p&gt;Like the &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt; component.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Image&lt;/strong&gt; on the left and &lt;strong&gt;Text&lt;/strong&gt; on the right:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;side-by-side&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toleft&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/assets/images/profile.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Alt Text&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;caption&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo by John Doe&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toright&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;http://localhost:4000/assets/images/profile.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Text&lt;/strong&gt; on the left and &lt;strong&gt;Image&lt;/strong&gt; on the right:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;side-by-side&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toleft&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toright&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/assets/images/profile.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Alt Text&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;caption&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo by John Doe&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;http://localhost:4000/assets/images/profile.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;star&quot;&gt;Star&lt;/h2&gt;
+
+&lt;p&gt;You can give evidence to a post. Just add the tag to the markdown file.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;star: true&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;especial-breaker&quot;&gt;Especial Breaker&lt;/h2&gt;
+
+&lt;p&gt;You can add a especial &lt;em&gt;hr&lt;/em&gt; to your text.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;breaker&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;spoiler&quot;&gt;Spoiler&lt;/h2&gt;
+
+&lt;p&gt;You can add an especial hidden content that appears on hover.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;spoiler&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;p&amp;gt;&lt;/span&gt;your content&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;spoiler&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;gist&quot;&gt;Gist&lt;/h2&gt;
+
+&lt;p&gt;You can add Gists from github.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;{ % gist sergiokopplin/91ff4220480727b47224245ee2e9c291 % }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;noscript&gt;&lt;pre&gt;&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+    &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;
+    &amp;lt;title&amp;gt;Just a Test!&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;h1&amp;gt;Working!&amp;lt;/h1&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/sergiokopplin/91ff4220480727b47224245ee2e9c291.js&quot;&gt; &lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;codepen&quot;&gt;Codepen&lt;/h2&gt;
+
+&lt;p&gt;You can add Pens from Codepen.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;268&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-theme-id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-slug-hash=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gfdDu&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-default-tab=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;result&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-user=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;chriscoyier&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'codepen'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    See the Pen &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'http://codepen.io/chriscoyier/pen/gfdDu/'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Crappy Recreation of the Book Cover of *The Flame Alphabet*&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt; by Chris Coyier (&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'http://codepen.io/chriscoyier'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;@chriscoyier&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;) on &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'http://codepen.io'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;CodePen&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;.
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//assets.codepen.io/assets/embed/ei.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;gfdDu&quot; data-default-tab=&quot;result&quot; data-user=&quot;chriscoyier&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/chriscoyier/pen/gfdDu/&quot;&gt;Crappy Recreation of the Book Cover of *The Flame Alphabet*&lt;/a&gt; by Chris Coyier (&lt;a href=&quot;http://codepen.io/chriscoyier&quot;&gt;@chriscoyier&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;slideshare&quot;&gt;Slideshare&lt;/h2&gt;
+
+&lt;p&gt;Add your presentations here!&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;marginwidth=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;marginheight=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;scrolling=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;no&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l&quot; width=&quot;560&quot; height=&quot;310&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;videos&quot;&gt;Videos&lt;/h2&gt;
+
+&lt;p&gt;Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>jamesfoster</name></author><category term="blog" /><category term="markdown" /><category term="components" /><category term="extra" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Markdown Common Elements</title><link href="http://localhost:4000/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" /><published>2016-02-24T22:44:00+00:00</published><updated>2016-02-24T22:44:00+00:00</updated><id>http://localhost:4000/markdown-common-elements</id><content type="html" xml:base="http://localhost:4000/markdown-common-elements/">&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
+
+&lt;p&gt;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; is &lt;em&gt;capable of doing&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;And that’s how to do it.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;/h2&gt;
+
+&lt;p&gt;There are six levels of headings. They correspond with the six levels of HTML headings. You’ve probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.&lt;/p&gt;
+
+&lt;h1 id=&quot;headings-can-be-small&quot;&gt;Headings can be small&lt;/h1&gt;
+
+&lt;h2 id=&quot;headings-can-be-small-1&quot;&gt;Headings can be small&lt;/h2&gt;
+
+&lt;h3 id=&quot;headings-can-be-small-2&quot;&gt;Headings can be small&lt;/h3&gt;
+
+&lt;h4 id=&quot;headings-can-be-small-3&quot;&gt;Headings can be small&lt;/h4&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;# Heading
+## Heading
+### Heading
+#### Heading&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
+
+&lt;h3 id=&quot;ordered-list&quot;&gt;Ordered list&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Item 1&lt;/li&gt;
+  &lt;li&gt;A second item&lt;/li&gt;
+  &lt;li&gt;Number 3&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;1. Item 1
+2. A second item
+3. Number 3&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered list&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An item&lt;/li&gt;
+  &lt;li&gt;Another item&lt;/li&gt;
+  &lt;li&gt;Yet another item&lt;/li&gt;
+  &lt;li&gt;And there’s more…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* An item
+* Another item
+* Yet another item
+* And there's more...&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;paragraph-modifiers&quot;&gt;Paragraph modifiers&lt;/h2&gt;
+
+&lt;h3 id=&quot;quote&quot;&gt;Quote&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;&amp;gt; Here is a quote. What this is should be self explanatory.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;urls&quot;&gt;URLs&lt;/h2&gt;
+
+&lt;p&gt;URLs can be made in a handful of ways:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A named link to &lt;a href=&quot;http://www.markitdown.net/&quot;&gt;Mark It Down&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Another named link to &lt;a href=&quot;http://markitdown.net/&quot;&gt;Mark It Down&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sometimes you just want a URL like &lt;a href=&quot;http://markitdown.net/&quot;&gt;http://markitdown.net/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* A named link to [MarkItDown][3].
+* Another named link to [MarkItDown](http://markitdown.net/)
+* Sometimes you just want a URL like &amp;lt;http://markitdown.net/&amp;gt;.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;horizontal-rule&quot;&gt;Horizontal rule&lt;/h2&gt;
+
+&lt;p&gt;A horizontal rule is a line that goes across the middle of the page.
+It’s sometimes handy for breaking things up.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;---&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;Markdown can also contain images. I’ll need to add something here sometime.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure Caption&lt;/em&gt;?&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]
+&amp;lt;figcaption class=&quot;caption&quot;&amp;gt;Photo by John Doe&amp;lt;/figcaption&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;em&gt;Bigger Images&lt;/em&gt;?&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]{: class=&quot;bigger-image&quot; }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;A HTML Example:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;lang=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;en&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;UTF-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;Document&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Just a test&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;A CSS Example:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;.8em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;white-space&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;tt&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Monaco&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Consolas&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Inconsolata&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;monospace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sans-serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rgba&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;.05&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;A JS Example:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Sticky Header&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;900&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'show-menu'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'show-menu'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry></feed>

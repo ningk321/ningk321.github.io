@@ -1,0 +1,64 @@
+---
+title: "\U0001F4CA Human-centered Data Visualization"
+layout: post
+date: 2019-08-10 22:00
+image: "/assets/images/"
+tag:
+- Human perception
+- Usability
+- Data
+projects: true
+category: project
+author: chloeng
+description: Designing data visualization with human perception principles in mind
+---
+
+<style>
+    .graph-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    }
+</style>
+
+## Visualizing data
+<b>
+<b>Nature: </b> Data visualization design
+
+<b>
+<b>Type: </b> Individual project
+
+<b>
+<b>My roles: </b>  Literature Reviewer, Designer, Coder
+
+<b>
+<b>Tools: </b> Python, Procreate, R, Graphviz
+
+<b>
+<b>Duration: </b> 2 weeks
+
+
+
+
+![Markdowm Image][1]
+
+## Background
+<b>As personal computing power increases, there is an increasing need of understanding data. One way to achieve this is through data visualization - translating columns and rows into human-readable format. This project explores how to visualize data in a way that is compelling to the target audiences. <span class="evidence">The design was informed by previous literature on information retrieval and human perception principles.</span> The visualization was built with Python (Plotly, Seaborn, matplotlib), R and graphviz. Visual effects by Procreate.</b>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yzqpppNM3HIgtV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
+
+
+<br>
+<br>
+<div class="breaker"></div>
+
+
+
+
+
+
+
+---
+[1]: https://chloenhy.github.io/assets/images/dataVis/wall-1.jpg
+[2]: https://chloenhy.github.io/assets/images/dataVis/wall-2.jpg
+[3]: https://chloenhy.github.io/assets/images/dataVis/ipad-1.jpg

@@ -1,0 +1,55 @@
+---
+title: "\U0001F698 Voice-interface training in simulated driving"
+layout: post
+date: 2018-10-24 22:44
+image: "/assets/images/IxSci/drive.jpg"
+projects: true
+tag:
+- research plan
+- physiological metrics
+- voice
+- driving
+- cognitive workload
+- GSR
+- skin conductance
+- quantitative
+category: project
+author: chloeng
+description: Effects of voice-interface training on driver cognitive workload in simulated
+  driving
+---
+
+### Effects of voice-interface training on driver cognitive workload in simulated driving
+<b>
+<b>Nature: </b>  Research Proposal
+
+<b>
+<b>Type: </b> Individual project
+
+
+<b>
+<b>Method: </b> Study design, Literature review, Quantitative, Physiological metrics
+
+
+### Background
+<b>In this study, I am interested in understanding how voice control training would impact driving by measuring the physiological state of driver. Skin conductance level was used as a proxy to cognitive workload and stress.
+
+<b>Feel free to contact me for more details!
+
+![Markdown Image][1]
+### Introduction
+<b>In recent years, the use of voice-based technology in cars has gained popularity as more drivers adopt voice control (VC) to help navigation while driving. In-car VC does not only offer multi-modal navigation ability but also enriches the driving experience by providing wider range of entertainment options (Luger and Sellen, 2016, Strayer et al., 2014). With the increasingly capable VC in car(Strayer et al., 2014), drivers might be encouraged to perform more secondary tasks than driving. Therefore, it is important to recognize VC potential threats to drivers, thereby on-road safety.
+
+<b>Impact of in-car systems on driving performance has been a focus in the research community. Previous research (Reimer et al, 2013, Jensen et al., 2010) consistently showed VC reduced visual interference compared to visual-based systems and induced less driving errors (Liang and Lee, 2010). The above might hint to us the benefits of VC due to reduced visual demand. Nevertheless, cognitive interference from VC system could still impair driving ability, and it remained underexplored in research.
+
+<b>Meanwhile, studies on VC showed users lacked or had poor mental models of how VC systems work, partially reinforced by the unuseful feedback from VC system (Luger and Sellen, 2016). Even after trial-and-error practice, users still faced obstacles to achieve tasks, thereby spending significant time to alter commands that could achieve their goals (Luna-Garcia et al, 2018). Incorrect use of VC could also distract drivers visually (Reimer et al. 2013). Therefore, it is important that drivers use VC with a better mental model that reduce visual and cognitive interference. Nevertheless, there was a lack of research into how learning to use VC affects driver’s cognitive workload.
+
+<b>Understanding the actual impact of VC on cognitive workload and how VC training might ease driver workload could better inform design of in-car voice systems, help build mental model and reduce cognitive workload in drivers, thus improving driving safety.
+
+<b>In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.
+
+<br>
+<br>
+<div class="breaker"></div>
+
+[1]: https://chloenhy.github.io/assets/images/IxSci/drive.jpg

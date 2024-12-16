@@ -1,0 +1,107 @@
+---
+title: "\U0001F9D8 ‍Interactive Tangible Prototype"
+layout: post
+date: 2019-05-01 22:00
+tag:
+- proof-of-concept
+- physical prototype
+- 3d print
+- laser cut
+- electronics
+- arduino
+projects: true
+category: project
+author: chloeng
+description: Blending traditional pranayama practice with sensor and actuators.
+---
+
+### Mudrayama - an interactive prototype to aid pranayama yogic breathing
+<b>
+<b>Nature: </b> Physical Prototyping
+
+<b>
+<b>Type: </b> Individual project
+
+<b>
+<b>Methodologies: </b>  Arduino, sketching, 3D printing, laser cutting
+
+
+<b>
+<b>Duration: </b> 2 months
+
+
+
+
+### Background
+<b>Being one of the main causes of the overall disease, mental health issues (including anxiety, depression) are affecting lives of millions worldwide, especially in young adults. Even though mental illness pose a negative impact on people’s development, there has not been sufficient measures from the tangible to support this issue.
+</b>
+
+<b>
+<b>Novel approach of using tangible cue</b>
+<br>
+Most of the technology-assisted meditation and pranayama breathing practice are limited to the use of mobile applications. Mudrayama is s proof-of-concept prototype that fits on your desk or bedroom side table to engage you with breathing practice.
+</b>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg">
+</div>
+
+
+### How it works
+<b>
+<b>Inhale-exhale:</b>
+Move hand to control the light trail inside the twisted cylinder. As you inhale, your hand moves up gradually and steadily to control the light trail. You can then try to concentrate on your breath, synchonise your movement with your breath so that the movement of the flower and you breath will be steady and smooth. A flower print symbolising the  lotus in yoga rises as you move up and down with your hand. Hand down, the light trail and the flower return to original state, indicating the end of one breath cycle.
+
+<div style="display: flex; justify-content: center;">
+    <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-bed.mp4" width="320" height="200">
+    </video>
+    <figcaption class="caption">Breathe in...breathe out...   The distance signal detection was unstable (even after averaging  out), which explains the flickering LED. 
+    </figcaption>
+</div>
+
+<b>
+<b>Hand mudra:</b>
+Ending the sequence with your favorite yoga mudra to show gratitude to yourself. See the base of the prototype for more mudras. Patterns of yoga mudras (stock) were engraved and painted on the acrylic board.
+</b>
+
+### Design process
+Early Sketches from brainstorming. Sketches that directly informed design of form factor:
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://chloenhy.github.io/assets/images/pcp/sketch.jpg">
+</div>
+
+<br>
+<b>3D Printing</b>
+<br>
+<b>The major components of this prototype were 3D printed. The use is two-fold. Firstly, critical parts of motor linear functions were printed for testing. Due to printer quality & material characteristics, not all the prints worked successfully. They either were not printed fine enough to support the movement, or that the material was too fragile for components to be usable.
+</b>
+<br>
+<div style="display: flex; justify-content: center;">
+    <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/3d-print2.mp4" width="320" height="400">
+    </video>
+    <figcaption class="caption">Half failing print :D</figcaption>
+</div>
+
+<br>
+<br>
+<b>Laser cutting</b>
+<br>
+<b>Laser cutting with plain acrylic is used to construct a robust case to protect the electronic components, as well as integrating the distance sensor seamlessly into the product.
+</b>
+
+
+<div style="display: flex; justify-content: center;">
+    <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-test.mp4" width="320" height="200">           </video>
+    <br>
+    <br>
+    <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-backyard.mp4" width="320" height="200">
+    </video>
+</div>
+
+<br>
+<br>
+<div class="breaker"></div>
+
+---
+[1]: https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg
