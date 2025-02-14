@@ -1,5 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>C'est la vie</title><link>https://ningk321.github.io</link><description>Die kleinen Momente des Lebens festhalten</description><copyright>C'est la vie</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/62751724?v=4</url><title>avatar</title><link>https://ningk321.github.io</link></image><lastBuildDate>Fri, 14 Feb 2025 15:34:56 +0000</lastBuildDate><managingEditor>C'est la vie</managingEditor><ttl>60</ttl><webMaster>C'est la vie</webMaster><item><title>Portainer技巧</title><link>https://ningk321.github.io/post/Portainer-ji-qiao.html</link><description># Docker管理工具Portainer忘记admin登录密码怎么办?
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>C'est la vie</title><link>https://ningk321.github.io</link><description>Die kleinen Momente des Lebens festhalten</description><copyright>C'est la vie</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/62751724?v=4</url><title>avatar</title><link>https://ningk321.github.io</link></image><lastBuildDate>Fri, 14 Feb 2025 15:49:58 +0000</lastBuildDate><managingEditor>C'est la vie</managingEditor><ttl>60</ttl><webMaster>C'est la vie</webMaster><item><title>docker官方安装</title><link>https://ningk321.github.io/post/docker-guan-fang-an-zhuang.html</link><description># Ubuntu
+[Uninstall old versions](https://docs.docker.com/engine/install/ubuntu/#uninstall-old-versions)
+Run the following command to uninstall all conflicting packages:
+`for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done`
+
+1. Set up Docker's apt repository.
+`# Add Docker's official GPG key:
+sudo apt-get update
+sudo apt-get install ca-certificates curl
+sudo install -m 0755 -d /etc/apt/keyrings
+sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+sudo chmod a+r /etc/apt/keyrings/docker.asc
+
+# Add the repository to Apt sources:
+echo \
+  'deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+  $(. /etc/os-release &amp;&amp; echo '${UBUNTU_CODENAME:-$VERSION_CODENAME}') stable' | \
+  sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null
+sudo apt-get update`
+
+2.Install the Docker packages.
+`sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin`
+
+[https://docs.docker.com/engine/install/ubuntu/](url)。</description><guid isPermaLink="true">https://ningk321.github.io/post/docker-guan-fang-an-zhuang.html</guid><pubDate>Fri, 14 Feb 2025 15:49:32 +0000</pubDate></item><item><title>Portainer技巧</title><link>https://ningk321.github.io/post/Portainer-ji-qiao.html</link><description># Docker管理工具Portainer忘记admin登录密码怎么办?
 `docker ps -a`
 `docker stop `
 `docker inspect `
