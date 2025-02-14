@@ -12,25 +12,4 @@
 ![Image](https://github.com/user-attachments/assets/6754623c-34c4-4033-8940-416404a1cd0e)
 
 
-
-
-
-
-##dierciwanju
-  jsksjsd
-
-
-jdhdhd
-
-
-
-###disaciwanjushdy
-
-kksdsd
-`wget https://klj.com`
-
-'''python
-language = "python"
-reversed_language = language[::-1]
-print(reversed_language) # nohtyp
-'''
+[https://post.smzdm.com/p/a7pwevpg/](url)
