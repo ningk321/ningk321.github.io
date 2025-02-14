@@ -1,6 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://ningk321.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://ningk321.github.io</link></image><lastBuildDate>Fri, 14 Feb 2025 14:53:58 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>oooola</title><link>https://ningk321.github.io/post/oooola.html</link><description>#qBittorrent刷流
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://ningk321.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://ningk321.github.io</link></image><lastBuildDate>Fri, 14 Feb 2025 15:08:16 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>oooola</title><link>https://ningk321.github.io/post/oooola.html</link><description># qBittorrent刷流
 在设置中取消勾选Host header验证并保存
+
+![Image](https://github.com/user-attachments/assets/9e8b27ba-0d55-4334-96da-5554b8cd8729)
+
+按下图顺序，新增RSS订阅，将上面URL粘贴进去，会自动刷新出种子列表
+
+![Image](https://github.com/user-attachments/assets/88d2d6f1-7102-473b-9825-56f480acc133)
+
+点击蓝色的+添加规则，命名后点击，可以按照下图我的配置来，最后勾选刚添加的订阅并保存
+
+![Image](https://github.com/user-attachments/assets/6754623c-34c4-4033-8940-416404a1cd0e)
+
+
+
+
 
 
 ##dierciwanju
