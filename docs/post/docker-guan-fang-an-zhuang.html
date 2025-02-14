@@ -16,15 +16,15 @@ Run the following command to uninstall all conflicting packages:
 `for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done`
 
 1. Set up Docker's apt repository.
-`# Add Docker's official GPG key:
-sudo apt-get update
+  1⃣️Add Docker's official GPG key:
+`sudo apt-get update
 sudo apt-get install ca-certificates curl
 sudo install -m 0755 -d /etc/apt/keyrings
 sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
-sudo chmod a+r /etc/apt/keyrings/docker.asc
+sudo chmod a+r /etc/apt/keyrings/docker.asc`
 
-# Add the repository to Apt sources:
-echo \
+    2⃣️Add the repository to Apt sources:
+`echo \
   'deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
   $(. /etc/os-release && echo '${UBUNTU_CODENAME:-$VERSION_CODENAME}') stable' | \
   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
@@ -41,15 +41,15 @@ Run the following command to uninstall all conflicting packages:
 `for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done`
 
 1. Set up Docker's apt repository.
-`# Add Docker's official GPG key:
-sudo apt-get update
+  1⃣️Add Docker's official GPG key:
+`sudo apt-get update
 sudo apt-get install ca-certificates curl
 sudo install -m 0755 -d /etc/apt/keyrings
 sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
-sudo chmod a+r /etc/apt/keyrings/docker.asc
+sudo chmod a+r /etc/apt/keyrings/docker.asc`
 
-# Add the repository to Apt sources:
-echo \
+    2⃣️Add the repository to Apt sources:
+`echo \
   'deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
   $(. /etc/os-release && echo '${UBUNTU_CODENAME:-$VERSION_CODENAME}') stable' | \
   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
@@ -124,20 +124,14 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 Run the following command to uninstall all conflicting packages:<br>
 <code class="notranslate">for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done</code></p>
 <ol>
-<li>Set up Docker's apt repository.<br>
-`# Add Docker's official GPG key:<br>
-sudo apt-get update<br>
-sudo apt-get install ca-certificates curl<br>
-sudo install -m 0755 -d /etc/apt/keyrings<br>
-sudo curl -fsSL <a href="https://download.docker.com/linux/ubuntu/gpg" rel="nofollow">https://download.docker.com/linux/ubuntu/gpg</a> -o /etc/apt/keyrings/docker.asc<br>
-sudo chmod a+r /etc/apt/keyrings/docker.asc</li>
+<li>
+<p>Set up Docker's apt repository.<br>
+1⃣️Add Docker's official GPG key:<br>
+<code class="notranslate">sudo apt-get update sudo apt-get install ca-certificates curl sudo install -m 0755 -d /etc/apt/keyrings sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc sudo chmod a+r /etc/apt/keyrings/docker.asc</code></p>
+<p>2⃣️Add the repository to Apt sources:<br>
+<code class="notranslate">echo \   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \   $(. /etc/os-release &amp;&amp; echo "${UBUNTU_CODENAME:-$VERSION_CODENAME}") stable" | \   sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null sudo apt-get update</code></p>
+</li>
 </ol>
-<h1>Add the repository to Apt sources:</h1>
-<p>echo <br>
-"deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] <a href="https://download.docker.com/linux/ubuntu" rel="nofollow">https://download.docker.com/linux/ubuntu</a> <br>
-$(. /etc/os-release &amp;amp;&amp;amp; echo "${UBUNTU_CODENAME:-$VERSION_CODENAME}") stable" | <br>
-sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null<br>
-sudo apt-get update`</p>
 <p>2.Install the Docker packages.<br>
 <code class="notranslate">sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin</code></p>
 <p><a href="url">https://docs.docker.com/engine/install/ubuntu/</a></p></div>
@@ -241,6 +235,6 @@ function iFrameLoading(){
 
 
 </script>
-<script>MathJax = {tex: {inlineMath: [["$", "$"]]}};</script><script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 
 </html>
