@@ -1,11 +1,5 @@
-#wanju 玩具
-kljsgdsgg
-                kljdgdfs
-  kkshdh 
-
-
-jdhdhd
-
+#qBittorrent刷流
+在设置中取消勾选Host header验证并保存
 
 
 ##dierciwanju
