@@ -16,7 +16,7 @@ In my third year, I led a project on "A Deep Learning Framework for Collapse Pre
 
 ## Current Focus
 
-My academic path led me to quantum information and computation in my fourth year. I'm currently working with Dr. S.M. Halataei in the Quantum Information and Computation Group at Shahid Beheshti University. Our research on fully connected Ising Hamiltonians has potential applications in optimization problems like Quadratic Unconstrained Binary Optimization (QUBO), with implications for solving NP-Hard problems such as k-SAT and the Traveling Salesman Problem.
+My academic path led me to quantum information and computation in my fourth year. I'm currently working in the Quantum Information and Computation Group at Shahid Beheshti University. Our research on fully connected Ising Hamiltonians has potential applications in optimization problems like Quadratic Unconstrained Binary Optimization (QUBO), with implications for solving NP-Hard problems such as k-SAT and the Traveling Salesman Problem.
 
 ## Approach and Skills
 
