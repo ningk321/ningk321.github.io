@@ -6,7 +6,7 @@ projects: true
 permalink: /projects/aviaassist
 hidden: false
 star: true
-image: "/assets/aviaassist-thumbnail.jpg"
+image: "/assets/images/aviaassist_thumbnail.png"
 video: "/assets/aviaassist-demo.mp4"
 tags: ["iOS", "Swift", "Firebase", "Aviation", "Turkish Airlines"]
 ---
@@ -57,7 +57,8 @@ AviaAssist is a **Swift-based** mobile application developed in collaboration wi
 ---
 
 ### **📸 Screenshots**
-<img src="{{ site.url }}/assets/aviaassist-thumbnail.jpg" alt="AviaAssist Screenshot" width="600">
+<img src="/assets/images/avia_ss1.png" alt="AviaAssist Screenshot" width="600">
+
 
 ### 🎥 **Video Demonstration**
 <video width="600" controls>
