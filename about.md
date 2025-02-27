@@ -4,42 +4,26 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+# Hey, I'm Uzay! 👋  
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I'm a **Computer Science student at Skidmore College**, currently in my **senior year** as a **Davis-UWC Scholar**. My journey with technology started in **Japan**, where I studied at **UWC ISAK** and was immersed in a culture of innovation. Since then, I’ve been diving into **software development, AI, and system design**, always looking for new ways to build **scalable, impactful projects**.  
 
-<h2>Skills</h2>
+I’ve interned at **CsTech**, a software company focused on automation, where I built a **C++ tool** that optimized **cross-platform scalability**. Later, at **Optimum7**, a digital marketing and e-commerce agency, I worked on **full-stack development** and integrated **BigCommerce & Shopify APIs** into dynamic platforms.  
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+Some of my favorite projects include **AviaAssist**, an iOS app developed with **Turkish Airlines pilots** to optimize flight operations, and a **Gym Booking App** built in **Flask & SQL** to simplify reservations for my school's gym. I love working on **real-world solutions**, especially those that blend **UX design, integration into previous systems**. I am also taking an AI class, which sparked a new interest of AI solutions to problems.
 
-<h2>Projects</h2>
+This website serves as a hub for my **resume, projects, and blog**. Feel free to explore my work, and if you’re working on an exciting project or have an opportunity that fits my skills, let’s connect!  
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+📩 **Email:** [uzaypoyraz@skidmore.edu](mailto:uzaypoyraz@skidmore.edu)  
+🔗 **LinkedIn:** [linkedin.com/in/uzaypoyraz](https://www.linkedin.com/in/uzaypoyraz/)  
+
+---
+
+## **💻 Skills & Interests**  
+- **Programming:** Python, Swift, C++, JavaScript, SQL, Flask, HTML, CSS  
+- **Tech & Tools:** Firebase, Git, Jira, Linux, Arduino  
+- **Development Areas:** Full-stack web & mobile apps, database design, AI integration  
+- **Languages:** English, Turkish, Japanese  
+- **Hobbies:** Soccer, music production, traveling, and trying new foods!  
+
+---
