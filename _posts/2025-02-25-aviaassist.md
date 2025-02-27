@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AviaAssist: A Pilot Assistance Tool"
-date: 2025-02-25
+date: 2024-02-25
 projects: true
 permalink: /projects/aviaassist
 hidden: false
@@ -58,10 +58,8 @@ AviaAssist is a **Swift-based** mobile application developed in collaboration wi
 ---
 
 ### 🎥 **Video Demonstration**
-<video width="600" controls>
-    <source src="{{ site.url }}/assets/aviaassist-demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<iframe width="600" height="340" src="https://youtu.be/WBDuho0EyIU" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 
