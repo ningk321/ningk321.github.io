@@ -20,8 +20,8 @@ This website serves as a hub for my **resume, projects, and blog**. Feel free to
 ---
 
 ## **💻 Skills & Interests**  
-- **Programming:** Python, Swift, C++, JavaScript, SQL, Flask, HTML, CSS  
-- **Tech & Tools:** Firebase, Git, Jira, Linux, Arduino  
+- **Programming:** Python, Swift, C, C++, Java, JavaScript, SQL HTML, CSS
+- **Tech & Tools:** Firebase, Git, Jira, Linux, Arduino, Flask  
 - **Development Areas:** Full-stack web & mobile apps, database design, AI integration  
 - **Languages:** English, Turkish, Japanese  
 - **Hobbies:** Soccer, music production, traveling, and trying new foods!  
