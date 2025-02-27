@@ -11,6 +11,7 @@ video: "/assets/aviaassist-demo.mp4"
 tags: ["iOS", "Swift", "Firebase", "Aviation", "Turkish Airlines"]
 ---
 # AviaAssist ✈️  
+<img src="/assets/images/aviaassist_thumbnail.png" alt="AviaAssist Screenshot" width="600" height = "800">
 ### **An Intelligent Flight Assistant for Turkish Airlines Pilots**  
 
 AviaAssist is a **Swift-based** mobile application developed in collaboration with **Turkish Airlines pilots** and a **UI/UX designer** to improve operational efficiency in aviation. The app is designed to assist pilots with **flight calculations, procedural briefings, and real-time data access**.
@@ -57,7 +58,9 @@ AviaAssist is a **Swift-based** mobile application developed in collaboration wi
 ---
 
 ### **📸 Screenshots**
-<img src="/assets/images/avia_ss1.png" alt="AviaAssist Screenshot" width="600">
+<img src="/assets/images/avia_ss1.png" alt="AviaAssist Screenshot" width="600" height = "800">
+<img src="/assets/images/avia_ss2.png" alt="AviaAssist Screenshot" width="600" height = "800">
+
 
 
 ### 🎥 **Video Demonstration**
