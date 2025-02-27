@@ -4,7 +4,7 @@ title: "Gym Booking App: Solving Gym Overcrowding"
 date: 2022-02-25
 projects: true
 hidden: false
-star: true
+star: false
 permalink: /projects/gym-booking-app
 image: "/assets/gym-booking-thumbnail.jpg"
 video: "https://www.youtube.com/embed/YOUR_VIDEO_ID"  # Replace with your unlisted YouTube video link
