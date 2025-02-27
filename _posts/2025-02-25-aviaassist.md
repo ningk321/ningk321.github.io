@@ -5,7 +5,7 @@ date: 2024-02-25
 projects: true
 permalink: /projects/aviaassist
 hidden: false
-star: true
+star: false
 image: "/assets/images/aviaassist_thumbnail.png"
 video: "/assets/aviaassist-demo.mp4"
 tags: ["iOS", "Swift", "Firebase", "Aviation", "Turkish Airlines"]
