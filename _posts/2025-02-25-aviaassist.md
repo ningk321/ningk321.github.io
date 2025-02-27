@@ -58,7 +58,7 @@ AviaAssist is a **Swift-based** mobile application developed in collaboration wi
 ---
 
 ### 🎥 **Video Demonstration**
-<iframe width="600" height="340" src="https://youtu.be/WBDuho0EyIU" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="340" src="https://www.youtube.com/embed/WBDuho0EyIU" frameborder="0" allowfullscreen></iframe>
 
 
 ---
