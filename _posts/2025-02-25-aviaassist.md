@@ -3,7 +3,7 @@ layout: post
 title: "AviaAssist: A Pilot Assistance Tool"
 date: 2025-02-25
 projects: true
-externalLink: "https://github.com/aydaruya/AviaAssist"
+permalink: /projects/aviaassist
 hidden: false
 star: true
 image: "/assets/aviaassist-thumbnail.jpg"
