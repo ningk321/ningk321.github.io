@@ -11,7 +11,7 @@ video: "https://www.youtube.com/embed/YOUR_VIDEO_ID"  # Replace with your unlist
 tags: ["Flask", "Python", "SQL", "Web Development", "School Projects"]
 ---
 # Gym Booking App 🏋️‍♂️  
-<img src="/assets/images/smallgym_thumbnail.png" alt="AviaAssist Screenshot" width="600" height = "200">
+<img src="/assets/images/smallgym_thumbnail.png" alt="AviaAssist Screenshot" width="600" height = "100">
 ### **A Scheduling and COVID Contact Tracking System for My School**  
 
 During my time at **UWC ISAK Japan**, the **weightlifting room in the gym became overcrowded**, making it difficult for students to use it efficiently—especially during **COVID-19 restrictions**. To address this, I collaborated with the **Physical Education (PE) department** and developed a **Gym Booking Application** that provided **structured scheduling, occupancy tracking, and COVID contact tracing**.
