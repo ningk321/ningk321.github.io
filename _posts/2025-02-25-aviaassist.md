@@ -16,6 +16,9 @@ tags: ["iOS", "Swift", "Firebase", "Aviation", "Turkish Airlines"]
 
 AviaAssist is a **Swift-based** mobile application developed in collaboration with **Turkish Airlines pilots** and a **UI/UX designer** to improve operational efficiency in aviation. The app is designed to assist pilots with **flight calculations, procedural briefings, and real-time data access**.
 
+I rolled out the application **to 12 pilots**, and used **Firebase Analytics** to track adoption and usage patterns. Over the course of a **month**, **7 pilots effectively used AviaAssist consistently during their flights**. For the time being, I am unable to continue updating the application due to time constraints.
+
+
 ### **🌟 Key Features**
 #### **🕒 Resting Time Calculator**
 - Ensures fair **flight time distribution** among pilots by calculating **resting periods** based on their duty schedules.
@@ -52,8 +55,9 @@ AviaAssist is a **Swift-based** mobile application developed in collaboration wi
 ### **🛠️ Tech Stack**
 - **Swift**: iOS development  
 - **Firebase Realtime Database**: Storing & retrieving **Cargo IMP codes**  
-- **Firebase Authentication**: Secure login for Turkish Airlines employees  
-- **UI/UX Designed with Pilots**: Optimized for fast, in-flight usability  
+- **Firebase Analytics**: Tracking pilot engagement & feature usage  
+- **Figma**: UI/UX prototyping and iterative testing  
+- **User Testing Methods**: SUS (System Usability Scale), Card Sorting, Design Critique  
 
 ---
 
