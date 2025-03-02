@@ -57,7 +57,7 @@ I rolled out the application **to 12 pilots**, and used **Firebase Analytics** t
 - **Firebase Realtime Database**: Storing & retrieving **Cargo IMP codes**  
 - **Firebase Analytics**: Tracking pilot engagement & feature usage  
 - **Figma**: UI/UX prototyping and iterative testing  
-- **User Testing Methods**: SUS (System Usability Scale), Card Sorting, Design Critique  
+- **User Testing Methods**: SUS (System Usability Scale), Card Sorting, Design Critique. [Link to the Google Slides detailing UI/UX research and results](https://docs.google.com/presentation/d/1hm6m8ilYLwCuvlFCgRplh7UrmUc5W0yL5VoxtQLJvN4/edit?usp=sharing) 
 
 ---
 
@@ -69,3 +69,4 @@ I rolled out the application **to 12 pilots**, and used **Firebase Analytics** t
 
 ### **🔗 Links**
 - 📂 **GitHub Repository**: [AviaAssist](https://github.com/aydaruya/AviaAssist)  
+- 📂 **AviaAssist UI/UX Research Findings**: [Access Slides](https://docs.google.com/presentation/d/1hm6m8ilYLwCuvlFCgRplh7UrmUc5W0yL5VoxtQLJvN4/edit?usp=sharing)  
