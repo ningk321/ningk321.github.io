@@ -6,7 +6,7 @@ layout: page
 
 # Hey, I'm Uzay! 👋  
 
-I'm a **Computer Science graduate from Skidmore College** as a **Davis-UWC Scholar**. My journey with technology started in **Japan**, where I studied at **UWC ISAK** and was immersed in a culture of innovation. Since then, I’ve been diving into **software development, AI, and system design**, always looking for new ways to build **scalable, impactful projects**.  
+I'm a **Computer Science graduate from Skidmore College** as a **Davis-UWC Scholar**. My journey with technology started in **Japan**, where I studied at **UWC ISAK** and was immersed in a culture of innovation. Since then, I’ve been diving into **software development, AI, and system design**, always looking for new ways to build **scalable, impactful projects**.
 
 I’ve interned at **CsTech**, a software company in the Defense Industry, where I built a **C++ tool** that optimized language translations. Later, at **Optimum7**, a digital marketing and e-commerce agency, I worked on **full-stack development** and integrated **BigCommerce & Shopify APIs** into dynamic platforms.  
 
