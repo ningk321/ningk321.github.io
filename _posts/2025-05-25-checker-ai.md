@@ -12,7 +12,7 @@ tags: ["Python", "AI", "Reinforcement Learning", "Alpha-Beta Pruning", "Games"]
 ---
 
 # Checkers AI ♟️  
-<img src="/assets/images/checkers.png" alt="Checkers Game Screenshot" width="600" height="200">
+<img src="/assets/images/checkers.png" alt="Checkers Game Screenshot" width="626" height="508">
 
 ### **A Classic Board Game But With AI Players**
 
