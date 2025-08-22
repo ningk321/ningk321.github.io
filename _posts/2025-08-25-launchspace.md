@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Website for LaunchSpace: My Mobile and App Developement Company"
+title: "Website for LaunchSpace: My Mobile and App Development Company"
 date: 2025-08-15
 projects: true
 permalink: /projects/launchspace
