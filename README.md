@@ -1,8 +1,8 @@
 <p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
+    <h2 align="center">UzayPoyrza Personal Website - <a href="https://uzaypoyrza.github.io">Live Demo</a></h2>
 </p>
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+<p align="center">This is my personal website built with Jekyll, based on the Indigo Minimalist template.</p>
 
 ***
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    Light and Dark themes.
+    Light and Dark themes included.
 </p>
 
 <p align="center">
@@ -26,42 +26,50 @@
 
 ## What has inside
 
-- [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
-- Page Speed: [99~Desktop](https://pagespeed.web.dev/analysis/https-sergiokopplin-github-io-indigo/41axptm3as?utm_source=psi&utm_medium=redirect&form_factor=desktop);
+- [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/), and [SVG](https://www.w3.org/Graphics/SVG/);
+- Mobile-friendly and minimalist design;
+- Optimized for fast page load.
 
 ## Setup
 
-0. :star: to the project. :metal:
-1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-2. Edit `_config.yml` with your data
-3. Write some posts :bowtie:
+1. Fork or clone this repo: [UzayPoyrza.github.io](https://github.com/UzayPoyrza/UzayPoyrza.github.io)  
+2. Edit `_config.yml` with your information (name, description, links, etc.)  
+3. Add or update your own posts and pages.  
 
-To run locally do the following:
+To run locally:
 
-1. Install [Jekyll](https://jekyllrb.com) and [Bundler](https://bundler.io/).
-2. Clone the forked repo on your machine
-3. Enter the cloned folder via terminal and run:
-```sh
-bundle install
-bundle exec jekyll serve
-```
-4. Open it in your browser: [http://localhost:4000](http://localhost:4000)
+1. Install [Jekyll](https://jekyllrb.com) and [Bundler](https://bundler.io/).  
+2. Clone the repo:
+
+    ```sh
+    git clone https://github.com/UzayPoyrza/UzayPoyrza.github.io
+    cd UzayPoyrza.github.io
+    ```
+
+3. Install dependencies and start a local server:
+
+    ```sh
+    bundle install
+    bundle exec jekyll serve
+    ```
+
+4. Open in your browser: [http://localhost:4000](http://localhost:4000)  
 
 Or run with [docker](https://github.com/BretFisher/jekyll-serve).
 
 ## Settings
 
-You can customize your site on `_config.yml` file.
+All customizations are done in the `_config.yml` file (title, description, author, social links, etc.).
 
 ## How To?
 
-Check the [FAQ](./FAQ.md).
+Check the [FAQ](./FAQ.md) for common questions.
 
 ---
+
 ## License
 
-[MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
+[MIT](https://kopplin.mit-license.org/) License © Uzay Poyraz  
+Based on the Indigo template by [Sérgio Kopplin](https://github.com/sergiokopplin/indigo)
 
 ---
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sergiokopplin/indigo&type=Date)](https://star-history.com/#sergiokopplin/indigo&Date)
