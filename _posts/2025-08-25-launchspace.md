@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LaunchSpace: Modern Web & AI Applications Platform"
-date: 2025-01-20
+date: 2025-08-15
 projects: true
 permalink: /projects/launchspace
 hidden: false
