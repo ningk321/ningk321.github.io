@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "LaunchSpace: Modern Web & AI Applications Platform"
+title: "Website for LaunchSpace: My Mobile and App Developement Company"
 date: 2025-08-15
 projects: true
 permalink: /projects/launchspace
 hidden: false
-star: true
+star: false
 image: "/assets/images/launchspace_thumbnail.png"
 video: ""
 tags: ["React", "TypeScript", "Node.js", "Brevo", "Vercel", "AI", "Web Development", "Email Marketing", "Cursor"]
@@ -15,7 +15,7 @@ tags: ["React", "TypeScript", "Node.js", "Brevo", "Vercel", "AI", "Web Developme
 
 ### **A Modern Web Platform to Introduce LaunchSpace - Web and Mobile App Developement Company**
 
-LaunchSpace is a professional site for showcasing AI-driven web and mobile apps. Built with **React, TypeScript, and Node.js**, it features:
+LaunchSpace is my LLC which I build AI-driven web and mobile apps under. The website for LaunchSpace acts as a professional site to showcase these apps. I built this website with **React, TypeScript, and Node.js**, it features:
 - Responsive dark-themed UI with smooth UX
 - Newsletter system via **Brevo**
 - Dynamic app showcase with filters & search
