@@ -77,5 +77,5 @@ echo "v2rayA Web 界面默认地址：http://你的服务器IP:2017"
 echo "首次访问会要求设置管理员账号密码。"
 echo "透明代理等高级功能可在 Web 界面中配置。"
 ```
-
+[參考地址](https://v2raya.org/docs/prologue/installation/alpine/)
 [installonalpine_v2raya.sh](https://github.com/user-attachments/files/24474111/installonalpine_v2raya.sh)
